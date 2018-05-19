@@ -47,7 +47,7 @@ if(isset($_POST['username'])&&isset($_POST['password'])){
         <input type='submit' name='ok' class="signin" value=" Sign in " style="color:#000"/>
       </div>
       <div class="form_row" style="margin-left:35px;">
-      <h5 style="color:#ffff; padding:15px; margin-top:35px;">Don't have account <a href="index.php?act=dk">Sign Up </a> NOW. </h5>
+      <h5 style="color:#ffff; padding:15px; margin-top:35px;"><a href="index.php?act=dk">Sign Up </a></h5>
       </div>
     </div>
   </form>
