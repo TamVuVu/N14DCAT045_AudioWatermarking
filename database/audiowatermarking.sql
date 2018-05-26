@@ -43,7 +43,7 @@ CREATE TABLE `music` (
 --
 
 INSERT INTO `music` (`id`, `song`, `singer`, `owner`, `link`, `fieldsid`, `fieldspr`) VALUES
-(1, 'Mơ', 'Vũ Cát Tường', 'admin', 'https://drive.google.com/file/d/1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft/view?usp=sharing', '1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft','1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft'),
+(1, 'Dream', 'Vu Cat Tuong', 'admin', 'https://drive.google.com/file/d/1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft/view?usp=sharing', '1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft','1YhD1PbSBHSxh3GKrA_70N3bKwhGSArft'),
 (2, 'Good Boy', 'GD-YB', 'admin', 'https://drive.google.com/file/d/1VpJrmkwVlr-eqQUzw0kRLIjzO7GgXk9E/view?usp=sharing', '1VpJrmkwVlr-eqQUzw0kRLIjzO7GgXk9E', '1VpJrmkwVlr-eqQUzw0kRLIjzO7GgXk9E');
 
 
